@@ -14,7 +14,8 @@
   "author": "Dylan Vann <dylan.vann@gmail.com> (dylanvann.com)",
   "main": "index.js",
   "repository": "DylanVann/i18next-react-native-language-detector",
-  "dependencies": {
-    "react-native-locale-detector": "^1.0.0"
+  "peerDependencies": {
+    "react-native-locale-detector": "^1.0.0",
+    "i18next": "^3.0.0"
   }
 }
