@@ -1,6 +1,6 @@
 {
   "name": "i18next-react-native-language-detector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native language detector for i18next.",
   "keywords": [
     "android",
