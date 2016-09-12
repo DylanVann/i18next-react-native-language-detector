@@ -5,7 +5,7 @@ React Native language detector for i18next.
 ## Installation
 
 ```
-npm install i18next-react-native-language-detector --save
+npm install i18next i18next-react-native-language-detector react-native-locale-detector --save
 react-native link
 ```
 
