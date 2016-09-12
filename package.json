@@ -2,6 +2,14 @@
   "name": "i18next-react-native-language-detector",
   "version": "1.0.0",
   "description": "React Native language detector for i18next.",
+  "keywords": [
+    "android",
+    "i18n",
+    "i18next",
+    "i18next-language-detector",
+    "ios",
+    "react-native"
+  ],
   "license": "MIT",
   "author": "Dylan Vann <dylan.vann@gmail.com> (dylanvann.com)",
   "main": "index.js",
