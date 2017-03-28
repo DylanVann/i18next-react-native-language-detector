@@ -15,7 +15,6 @@
   "main": "index.js",
   "repository": "DylanVann/i18next-react-native-language-detector",
   "peerDependencies": {
-    "react-native-locale-detector": "^1.0.0",
-    "i18next": "^3.0.0"
+    "react-native-locale-detector": "^1.0.0"
   }
 }
